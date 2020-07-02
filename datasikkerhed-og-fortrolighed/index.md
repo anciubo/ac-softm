@@ -1,0 +1,1109 @@
+<!--
+.. title: datasikkerhed-og-fortrolighed
+.. slug: datasikkerhed-og-fortrolighed
+.. date: 2017-08-04 13:07:32 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
+<div class="alert alert-success" role="alert"><b>Opdateret fra PRI</b>  ------>  d.04-08-2017  kl:13:07:30</div>
+
+<div class="document" id="Ud5b2b680e879461088f1d93612a5ad6b" lang="da-DK" xml:lang="da-DK" xmlns="http://www.w3.org/1999/xhtml">
+ <h1 class="~clause~ Titeloverskrift">
+  <span>
+   Datasikkerhed og -fortrolighed
+  </span>
+ </h1>
+ <h1 class="~clause~ Overskrift1">
+ </h1>
+ <h1 class="~clause~ Overskrift1" id="a_2839d487eb8144ee8ad7589a3a97d4a8">
+  <span>
+   Problemstilling
+  </span>
+ </h1>
+ <p class="~clause~ Normal" style="background-color: #FBFBFB; color: black; line-height: 12pt;">
+  <span style="font-family: Tahoma; color: #000;">
+   Det skal sikres, at organisationen behandler, opbevarer og destruerer personhenførbare data sikkert.
+  </span>
+ </p>
+ <h2 class="~clause~ Overskrift2">
+ </h2>
+ <h1 class="~clause~ Overskrift1" id="a_621d40c93cf44111bec397c017cc5973">
+  <span>
+   Målgruppe – modtagelse
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Alle ledere.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_e0d49e8eb99548f6b1dabf10e497558f">
+  <span>
+   Definition af begreber
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span>
+   SFV: Sundhedsfaglige visitatorer på AMK-vagtcentralen
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   TD: Tekniske Disponenter på AMK-vagtcentralen
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Der opbevares personlige data i disse systemer:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     EVA2000
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – disponeringssystem, som regionen lejer af Falck
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     ADAPT
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Regionens disponeringssystem til kørsel D
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PLANET
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Regionens bestillingssystem til siddende patientbefordring
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     AmPHI
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Præhospital Patientjournal som leveres af Falck
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Enterpriseserver
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Server som sikre kommunikation mellem EVA2000 og præhospitale enheder
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Lydlog
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Lydoptagelser af alle telefonsamtaler, som gennemføres via AMK-vagtcentralens primære telefonsystem
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Excel
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     -udtræk fra EVA-2000, Enterpriseserver og ADAPT
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PAS
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Regionens patientadministrative system
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CPR
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – CPR-registret
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     DPSD
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Dansk PatientSikkerhedsDatabase, hvor utilsigtede hændelser rapporteres og sagsbehandles
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Patientklager og patientforsikringssager
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Det præhospitale system har adgang til pesonlige data via indkomne patientklagesager og patientforsikringssager.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_bd572b03113f47f68649f086ea9cdc79">
+  <span>
+   Formål
+  </span>
+ </h1>
+ <p class="~clause~ Normal" style="background-color: #FBFBFB; color: black; line-height: 12pt;">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FBFBFB; color: black; line-height: 12pt;">
+  <span style="color: #000;">
+   At sikre:
+  </span>
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Listeafsnit level0" style="background-color: #FBFBFB; color: black; line-height: 12pt;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     beskyttelse mod misbrug og tab af personfølsomme oplysninger
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0" style="background-color: #FBFBFB; color: black; line-height: 12pt;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     fortrolighed, tilgængelighed samt hensigtsmæssig og kontrolleret adgang for relevant brug af data i overensstemmelse med gældende lovgivning på området
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_762e6df8f1a242e9b8bf9d4823cd3716">
+  <span>
+   Beskrivelse
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Regionens regler om
+  </span>
+  <span style="color: #000; text-decoration: underline;">
+   tavshedspligt og fortrolige oplysninger
+  </span>
+  <span style="color: #000;">
+   findes i
+  </span>
+  <a href="http://personalenet.rn.dk/personale/personalehaandbog/Sider/TavshedspligtOgFortroligeOplysninger.aspx">
+   <span class="Hyperlink">
+    Personalehåndbogen
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Som udgangspunkt
+  </span>
+  <span style="color: #000; text-decoration: underline;">
+   videregives oplysninger ikke
+  </span>
+  <span style="color: #000;">
+   , der er dog disse undtagelser:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Information til Patientdialog i Region Nordjylland, når de har fået en henvendelse fra en patient
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Patienombuddet
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Patientforsikringen
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Evaluering af opgaver sammen med Politi, Falck og kommunale redningsberedskaber (aldrig personlige oplysninger)
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Alle oplysninger kan anvendes internt til evaluering, træning og uddannelse
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   <br/>
+  </span>
+  <span style="font-weight: bold; color: #000;">
+   Opbevaring og adgang til personhenførbar data
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Data er beskyttet med password og er tilgængelig for disse personer:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     EVA2000
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – SFV, TD, ledelse og udvalgte administrative medarbejdere
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CAD3
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – SFV, TD, D-disponenter og udvalgte administrative medarbejdere
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PLANET
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – D-disponenter
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     AmPHI2
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     - SFV, ledelse og udvalgte administrative medarbejdere
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PPJ
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     - SFV, ledelse og udvalgte administrative medarbejdere
+    </span>
+    <span style="font-family: Verdana; font-style: italic; color: #000; font-size: 10pt;">
+     (fra 28/9 2015)
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Enterpriseserver
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – AMK-vagtcentralchef og en administrativ medarbejder
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Lydlog
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Præhospitalleder, sundhedsfaglig leder og AMK-vagtcentralchef. Herudover kan den enkelte medarbejder få adgang til egne optagelser. Se ”
+    </span>
+    <span style="font-family: Verdana; font-size: 10pt;">
+     SOP – Lydlog”.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Excel
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     -udtræk – Er tilgængelig for AMK-vagtcentralchef, statistikmedarbejdere, medarbejder i SPK samt virksomhederne Falck og Logis
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PAS
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – D-disponenter
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CPR
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – én D-disponent
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     DPSD
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Udvalgt administrativ medarbejder (risikomanager)
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Patientklager og patientforsikringssager –
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Udvalgte administrativ medarbejder i regionen samt ledere i den præhospitale arganisation
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Herudover har IT-nøglepersoner adgang til systemerne
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; color: #000;">
+   Sporbarhed:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     EVA2000
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CAD3
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PLANET
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     AmPHI2
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – kun læse adgang – ingen logning
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PPJ
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     - alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Enterpriseserver
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Lydlog
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Det logges hvem, der aflytter lydlogs
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Excel
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     -udtræk – Ingen sporbarhed
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PAS
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CPR
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle ændringer og hændelser logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     DPSD
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle hændelser og ændringer logges
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Patientklager og patientforsikringssager
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – dokumenter samt korrespondance herom arkiveres i regionens arkiveringssystem eDoc
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; color: #000;">
+   Destruktion af personhenførbare dokumenter og data
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     EVA2000
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger gemmes i Falcks Datawarehouse
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CAD3
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger gemmes i Regionens Datawarehouse
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PLANET
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger gemmes hos Flex Danmark
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     AmPHI
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger forbliver i systemet, men navne og CPR numre fjernes efter 6 måneder, således disse kun kan gendannes efter aftale med ledelsen.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PPJ
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     - alle oplysninger forbliver i systemet, rettigheder styrer, hvem der har adgang til personhenførbare oplysninger
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Enterpriseserver
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger gemmes i systemet
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Lydlog
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – alle oplysninger gemmes i systemet
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Excel
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     -udtræk – Skal opbevares på netværksdrev og skal slettes, når man ikke har behov for dem mere
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     PAS
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Eventuelle udskrifter makuleres
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     CPR
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Eventuelle udskrifter makuleres
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     DPSD
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     – Udskrifter opbevares på kontor, som er aflåst for personer som ikke er ansat i Præhospitalt Beredskab. Destruktion af udskrifter fra DPSD sker ved makulering.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; font-weight: bold; color: #000; font-size: 10pt;">
+     Udskrifter og andre papirer
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     med personfølsomme oplysninger makuleres i makulator
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; color: #000;">
+   Systemnedbrud:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Ved systemnedbrud af EVA2000 eller CAD3 arbejdes videre med papirer indtil systemet er genoprettet
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Der er etableret redundant strømforsyning med nødgenerator samt redundante IT-forbindelser. Der findes et nødtelefonsystem.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Handlinger ved systemnedbrud er beskrevet her:
+     <br/>
+    </span>
+    <span style="font-family: Verdana; font-size: 10pt;">
+     Se ”SOP - SINE-fejlmeldinger”
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     <br/>
+    </span>
+    <span style="font-family: Verdana; font-size: 10pt;">
+     Se ”SOP - Teknisk Hjælp”
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Backupprocedurer:
+  </span>
+ </p>
+ <ul class="list12">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Regionens IT-afdeling fortager daglig backup af alle data
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; color: #000;">
+   Forholdsreglerne ved forsøg på uretmæssig adgang:
+  </span>
+ </p>
+ <ul class="list11">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Regionens medarbejdere: Sagen undersøges af ledelsen og det kan have ansættelsesmæssige konsekvenser
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Andre: Politianmeldelse overvejes
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal" style="text-indent: -17.85pt; margin-left: 0; padding-left: 17.85pt;">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Kvalitetsovervågning
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Dokumentation for gennemført backup af datasystemer:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Findes ved IT-afdelingen.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Link til:
+    </span>
+    <a href="http://networking.rn.dk/faelles/beredskab/vagtcentral/Tekniske dokumenter/Backup politik 2012.doc">
+     <span class="Hyperlink" style="font-family: Verdana; font-size: 10pt;">
+      Backup Politik fra Koncern IT
+     </span>
+    </a>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Der fortages overvågning og gennemgang af logningslister ved mistanke om misbrug.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Der foreligger dokumentation for, at nødprocedurer i forbindelse med systemnedbrud afprøves med regelmæssige intervaller:
+  </span>
+ </p>
+ <ul class="list10">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Aalborg sygehus tester nødgenerator én gang om ugen – dokumentation ved Teknisk afdeling på Aalborg Sygehus
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     -
+    </span>
+    <span style="font-family: Verdana; color: #000; font-size: 10pt;">
+     Nødtelefoner afprøves jævnligt
+    </span>
+    <a id="a_GoBack">
+    </a>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Nødprocedure i forbindelse med systemnedbrud i AMK-vagtcentralen foretages ikke for nuværende, da det ikke er hensigtsmæssigt at tage systemerne ud af drift af hensyn til patientsikkerheden. Der er beskrevet nødprocedure for systemnedbrud i AMK-vagtcentralen, jf. retningslinjen: ”Organisationens forsyninger”.
+  </span>
+ </p>
+ <h1 class="~clause~ Overskrift1">
+ </h1>
+ <h1 class="~clause~ Overskrift1" id="a_25e98cba6a32412b8d87b5026d2ab32c">
+  <span>
+   Referencer
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Standard nr. 1.1.6 Den Danske Kvalitetsmodel. Akkrediteringsstandarder for det præhospitale område, 2. version.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Lovbekendtgørelse nr. 1202 af 14. november 2014 af sundhedsloven med eventuelle senere ændringer.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="text-indent: -17.85pt; margin-left: 0; padding-left: 17.85pt;">
+  <span style="color: #000;">
+   Lov nr. 429 af 31. maj 2000 om behandling af personoplysninger med eventuelle senere ændringer.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="text-indent: -17.85pt; margin-left: 0; padding-left: 17.85pt;">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Bekendtgørelse nr. 528 af 15. juni 2000 om sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som behandles for den offentlige forvaltning, jf. Forvaltningsloven med eventuelle senere ændringer.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Vejledning nr. 37 af 2. april 2001 til bekendtgørelse nr. 528 af 15. juni 2000 om sikkerhedsforanstaltninger til beskyttelse af personoplysninger, som behandles for den offentlige forvaltning.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Vejledning nr. 161 af 16. september 1998 om information og samtykke og om videregivelse af helbredsoplysninger m.v.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="text-indent: -17.85pt; margin-left: 0; padding-left: 17.85pt;">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   Informationssikkerhed – vejledning for sundhedsvæsenet. Version 1.00 af 25. februar 2008. Sundhedsstyrelsen.
+  </span>
+ </p>
+ <h2 class="~clause~ Overskrift2">
+ </h2>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+</div>

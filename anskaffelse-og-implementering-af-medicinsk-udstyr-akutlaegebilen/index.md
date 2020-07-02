@@ -1,0 +1,301 @@
+<!--
+.. title: anskaffelse-og-implementering-af-medicinsk-udstyr-akutlaegebilen
+.. slug: anskaffelse-og-implementering-af-medicinsk-udstyr-akutlaegebilen
+.. date: 2017-08-04 13:07:07 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
+<div class="alert alert-success" role="alert"><b>Opdateret fra PRI</b>  ------>  d.04-08-2017  kl:13:07:06</div>
+
+<div class="document" id="U647986644e174a14adacfc272bd1f1be" lang="da-DK" xml:lang="da-DK" xmlns="http://www.w3.org/1999/xhtml">
+ <h1 class="~clause~ Titeloverskrift">
+  <span>
+   Anskaffelse og implementering af medicinsk udstyr – Akutlægebilen
+  </span>
+ </h1>
+ <h1 class="~clause~ Overskrift1">
+ </h1>
+ <h1 class="~clause~ Overskrift1" id="a_8a1f75d326aa4959addaa09566be70a0">
+  <span>
+   Problemstilling
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Enhver anskaffelse, afprøvning og implementering af medicinsk udstyr skal ske i overensstemmelse med gældende regler.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_fe65429fc1054ea9b471d2a54b65f6a7">
+  <span>
+   Målgruppe – modtagelse
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Alle ledere og medarbejdere, der er involveret i anskaffelse og implementeringen af medicinsk udstyr.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_f43d7c8b533a42efae2e18ea1c2ab794">
+  <span>
+   Definition af begreber
+  </span>
+ </h1>
+ <p class="~clause~ Normal" style="line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="line-height: 115%;">
+  <span style="font-weight: bold; font-style: italic; color: #000;">
+   Medicinsk udstyr
+  </span>
+  <span style="color: #000;">
+   : Ethvert instrument, apparatur, software, materiale eller anden genstand anvendt alene eller i kombination. Herunder software, som af fabrikanten er beregnet til specifik anvendelse til diagnostiske eller terapeutiske formål, der hører med til korrekt brug heraf, og som af fabrikanten er beregnet til anvendelse på mennesker med henblik på:
+  </span>
+ </p>
+ <ul class="list8">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn level0" style="line-height: 115%;">
+    <span class="item">
+     •
+    </span>
+    <span>
+     diagnosticering, forebyggelse og overvågning
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn level0" style="line-height: 115%;">
+    <span class="item">
+     •
+    </span>
+    <span>
+     behandling eller lindring af sygdomme eller skader
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Opstilling-punkttegn">
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+  <span style="font-weight: bold; font-style: italic;">
+   Højrisikoapparatur:
+  </span>
+  <span>
+   Apparatur, der ved fejlfunktion eller forkert betjening, kan være årsag
+  </span>
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+  <span>
+   til en utilsigtet hændelse, kategoriseret som katastrofal eller betydende.
+  </span>
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+  <span style="font-weight: bold; font-style: italic; color: #000;">
+   Katastrofal hændelse
+  </span>
+  <span style="font-weight: bold; color: #000;">
+   :
+  </span>
+  <span style="color: #000;">
+   død, eller varigt betydende funktionstab/handicap, méngrad &gt;15 %.
+  </span>
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 115%;">
+  <span style="font-weight: bold; font-style: italic; color: #000;">
+   Betydende hændelse
+  </span>
+  <span style="font-weight: bold; color: #000;">
+   :
+  </span>
+  <span style="color: #000;">
+   varigt funktionstab/handicap, méngrad &lt; 15 %, betydende øget udrenings- og/eller behandlingsintensitet. Ved flere patienter skadet ved samme begivenhed. Lettere øget udrednings- og/eller behandlingsintensitet eller forlænget indlæggelse for minimum 3 patienter.
+  </span>
+ </p>
+ <p class="~clause~ Opstilling-punkttegn">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_af91b008437245c2b5de8b36336c7fb0">
+  <span>
+   Formål
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   At sikre, at:
+  </span>
+ </p>
+ <ul class="list8">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn level0">
+    <span class="item">
+     •
+    </span>
+    <span>
+     At det medicinske udstyr bruges korrekt. Herunder også, at;
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn level0" style="margin-left: 42.5pt;">
+    <span class="item">
+     •
+    </span>
+    <span>
+     Det medicinsk udstyr er sikkert og funktionsdygtigt
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn level0" style="margin-left: 42.5pt;">
+    <span class="item">
+     •
+    </span>
+    <span>
+     D
+    </span>
+    <a id="a_GoBack">
+    </a>
+    <span>
+     et indkøbte medicinske udstyr er egnet til brug på det præhospitale område, uanset ejerforhold.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_2b0ee6eb7cfc49b2a6a51315a1142304">
+  <span>
+   Beskrivelse
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span>
+   Medicinsk udstyr som anskaffes til akutlægebilerne i Region Nordjylland, er underlagt de samme vilkår og krav, som udstyr der anskaffes til Anæstesien Syd, Aalborg Universitetshospital og klinik anæstesi, Sygehus Vendsyssel, Hjørring.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Medicinsk udstyr til akutlægebilen i Aalborg indkøbes af Anæstesien Syd, Aalborg Universitetshospital i samarbejde med Præhospital- og Beredskabsenheden.
+  </span>
+ </p>
+ <h4 class="~clause~ Overskrift4">
+ </h4>
+ <h4 class="~clause~ Overskrift4" id="a_239c439bfd3142c19e58eb050ab3404b" style="line-height: 100%;">
+  <span style="font-weight: normal; font-size: 10pt;">
+   Medicinsk udstyr til akutlægebilen i Hjørring indkøbes af Klinik Anæstesi, Sygehus Vendsyssel i samarbejde med Præhospital- og Beredskabsenheden.
+  </span>
+ </h4>
+ <h4 class="~clause~ Overskrift4" style="line-height: 100%;">
+ </h4>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #000;">
+   Før anvendelse af apparatur til klinisk brug i Anæstesien, vil de ansatte have gennemgået en grundig oplæring i apparaturets funktion og anvendelsesmuligheder.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst" style="line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #000;">
+   Anæstesien følger regional retningslinje
+  </span>
+  <a href="http://pri.rn.dk/pri/Sider/f256aaa3-0773-49b7-9763-acf349ae2405.aspx?sf=All">
+   <span style="color: #00F; text-decoration: underline;">
+    Anskaffelse og implementering af medicinsk udstyr
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <a href="http://pri.rn.dk/pri/A/Sider/307fcdf7-bb37-4be7-9664-f04c197026cd.aspx?sf=4847f245-93aa-4ae7-95d5-1663ee5a48cf">
+   <span style="color: #00F; text-decoration: underline;">
+    Årshjul for anskaffelse og implementering af apperatur i Anæstesien
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <a href="http://www.rn.dk/NR/rdonlyres/4331CF4F-B44E-4D30-9417-D3FD21F36FA1/0/Retningslinieforindkøb.pdf">
+   <span class="Hyperlink">
+    Retningslinje under Arbejdsmiljøpolitikken vedrørende Arbejdsmiljøorganisationens inddragelse ved Planlægning af indkøb og anskaffelser
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <a href="http://pri.rn.dk/pri/Sider/b6e457ee-2e20-41b1-bdfa-f9804ec470f5.aspx?sf=ae3e1878-b19f-440c-83fa-e2bc6f418da2">
+   <span style="color: #00F; text-decoration: underline;">
+    Indlægning af instrukser, instruktionsbøger og manualer mv. vedrørende apperatur i PRI
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span style="font-weight: bold;">
+   Kvalitetsovervågning
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Medicoteknisk afdeling, Aalborg Universitetshospital er ansvarlig for dokumentation af at organisationen foretager risikovurdering af nyanskaffet medicinsk udstyr.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span>
+  </span>
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_9a38297e300944abb967d901e8139cf5">
+  <span>
+   Referencer
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Standard 1.7.1, Den Danske Kvalitetsmodel. Akkrediteringsstandarder for det præhospitale område, 2. version.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Bekendtgørelse om medicinsk udstyr. BEK nr. 1263 af 15. december 2008.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 3pt; line-height: 100%;">
+  <span>
+   Fælles regional retningslinje:
+  </span>
+  <a href="http://pri.rn.dk/pri/Sider/f256aaa3-0773-49b7-9763-acf349ae2405.aspx?sf=All">
+   <span style="color: #00F; text-decoration: underline;">
+    Anskaffelse og implementering af apparatur til klinisk brug
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+</div>
