@@ -1,0 +1,4 @@
+Sitemap: http://dokuALB.ac-softm.net/sitemapindex.xml
+
+User-Agent: *
+Host: dokuALB.ac-softm.net

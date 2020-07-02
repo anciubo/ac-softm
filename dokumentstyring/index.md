@@ -1,0 +1,1662 @@
+<!--
+.. title: dokumentstyring
+.. slug: dokumentstyring
+.. date: 2017-08-04 13:07:34 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
+<div class="alert alert-success" role="alert"><b>Opdateret fra PRI</b>  ------>  d.04-08-2017  kl:13:07:33</div>
+
+<div class="document" id="U1ccc29dea45449febf0631f8b7c517ad" lang="da-DK" xml:lang="da-DK" xmlns="http://www.w3.org/1999/xhtml">
+ <h1 class="~clause~ Titeloverskrift">
+  <a id="a_Toc411250805">
+  </a>
+  <span>
+   Dokumentstyring
+  </span>
+ </h1>
+ <div class="sdt" id="T24027282">
+  <p class="~clause~ Overskrift">
+   <span>
+    Indhold
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250805">
+     <span class="Hyperlink tab">
+      Dokumentstyring
+     </span>
+     <span class="field pageref">
+      <span>
+       1
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250806">
+     <span class="Hyperlink tab">
+      Problemstilling og formål
+     </span>
+     <span class="field pageref">
+      <span>
+       1
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250807">
+     <span class="Hyperlink tab">
+      Målgruppe
+     </span>
+     <span class="field pageref">
+      <span>
+       1
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250808">
+     <span class="Hyperlink tab">
+      Definition af begreber
+     </span>
+     <span class="field pageref">
+      <span>
+       1
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250809">
+     <span class="Hyperlink tab">
+      Beskrivelse
+     </span>
+     <span class="field pageref">
+      <span>
+       3
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse2">
+   <span class="field toc">
+    <a href="#a_Toc411250810">
+     <span class="Hyperlink tab">
+      Krav til dokumenterne
+     </span>
+     <span class="field pageref">
+      <span>
+       3
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse2">
+   <span class="field toc">
+    <a href="#a_Toc411250811">
+     <span class="Hyperlink tab">
+      Godkendelse af dokumenter
+     </span>
+     <span class="field pageref">
+      <span>
+       4
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse2">
+   <span class="field toc">
+    <a href="#a_Toc411250812">
+     <span class="Hyperlink tab">
+      Dokumentstyring/ansvarsfordeling
+     </span>
+     <span class="field pageref">
+      <span>
+       5
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse2">
+   <span class="field toc">
+    <a href="#a_Toc411250813">
+     <span class="Hyperlink tab">
+      Tilgang til dokumenter ved nedbrud af dokumentstyringssystem
+     </span>
+     <span class="field pageref">
+      <span>
+       6
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse2" style="margin-left: 0;">
+   <span class="field toc">
+    <a href="#a_Toc411250814">
+     <span class="Hyperlink tab">
+      Bilag 1: Egenskaber for retningsgivende dokumenter i PRI-systemet
+     </span>
+     <span class="field pageref">
+      <span>
+       6
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Indholdsfortegnelse1">
+   <span class="field toc">
+    <a href="#a_Toc411250815">
+     <span class="Hyperlink tab">
+      Referencer
+     </span>
+     <span class="field pageref">
+      <span>
+       7
+      </span>
+     </span>
+    </a>
+   </span>
+  </p>
+  <p class="~clause~ Normal">
+  </p>
+ </div>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_e5a608c95bf945fd9a4d492c5ff49a18">
+  <a id="a_Toc411250806">
+  </a>
+  <span>
+   Problemstilling og formål
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Denne retningslinje sætter rammen for, hvorledes styringen af retningsgivende dokumenter håndteres inden for det præhospitale område i Region Nordjylland. Denne retningslinjen skal medvirke til at sikre:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     At dokumenter er tilgængelige, opdaterede og godkendt af relevante personer.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     At gyldige dokumenter entydigt kan identificeres.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     At udgåede dokumenter kan genfindes i arkiveringsperioden.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Såvel den regionale præhospitale enhed som a
+  </span>
+  <span class="hnpara" style="color: #000;">
+   mbulanceleverandøren har for alle standarder i Den Danske Kvalitetsmodel udarbejdet retningsgivende dokumenter, der beskriver, hvorledes den enkelte standard i Den Danske Kvalitetsmodel søges efterlevet.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_cc12f65c3d4b4d548263fb8c75b40a73">
+  <a id="a_Toc411250807">
+  </a>
+  <span>
+   Målgruppe
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Alle personalegrupper inden for det præhospitale område samt alle afdelinger/kontorer der organisatorisk hører under Præhospitalt Beredskab.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_037c4bb33ff144b3875dcf1e5331823a">
+  <a id="a_Toc411250808">
+  </a>
+  <span>
+   Definition af begreber
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="font-weight: bold; font-style: italic; color: #000;">
+   PRI-systemet:
+  </span>
+  <span class="hnpara" style="color: #000;">
+   Region Nordjyllands dokumentstyrings- og håndteringssystem til retningsgivende dokumenter. PRI står for Politikker, Retningslinjer og Instrukser.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Retningsgivende dokumenter omfatter politikker &amp; strategier, retningslinjer og instrukser, som afspejler tre indbyrdes hierarkiske niveauer, henholdsvis:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <ol class="list10">
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     1.
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     Politikker &amp; strategier
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     2.
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     Retningslinjer
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     3.
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     Instrukser
+    </span>
+   </p>
+  </li>
+ </ol>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="font-weight: bold; font-style: italic; color: #000;">
+   Politikker og strategier:
+  </span>
+  <span class="hnpara" style="color: #000;">
+   Politikker er dokumenter, der på det strategiske niveau beskriver institutionens overordnede mål, samt hvordan organisationen arbejder på at nå de overordnede mål. Politikker angiver, hvad man vil i forskellige sammenhænge.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Politikker kan understøttes af programmer, som er et samlebegreb for sæt af aktiviteter, der fører frem mod de samme mål. Strategier er ledelsens handleplaner for, hvordan eksempelvis den overordnede mission og vision omsættes til dagligdag.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="font-weight: bold; font-style: italic; color: #000;">
+   Retningslinjer:
+  </span>
+  <span class="hnpara" style="color: #000;">
+   Retningslinjer er dokumenter, som er praksisanvisende i forhold til en given problemstilling. Retningslinjer baserer sig på systematisk vidensindsamling og udtrykker dermed strukturerede faglige prioriteringer. Retningslinjer anvendes af ledere og medarbejdere, når de skal træffe beslutning om den rette fremgangsmåde i forhold til løsning af konkrete problemer i praksis.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Retningslinjer kategoriseres som henholdsvis:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Administrative
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Forløbsbeskrivelse
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Kliniske
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="font-weight: bold; font-style: italic; color: #000;">
+   Instrukser/Standardiserede Operationelle Procedurer (SOP):
+  </span>
+  <span class="hnpara" style="color: #000;">
+   Instrukser er dokumenter, som formidler specifikke anvisninger om, hvordan personalet skal udføre konkrete veldefinerede og velafgrænsede opgaver i praksis.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Specifikt for det præhospitale område anvendes betegnelsen ’Standardiserede Operationelle Procedurer (SOP) for handlingsanvisende dokumenter på instruksniveau.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Instrukser kategoriseres som henholdsvis:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Administrative
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Apparatur
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara" style="color: #000;">
+     Kliniske
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Når der er tale om
+  </span>
+  <span class="hnpara" style="font-weight: bold; color: #000;">
+   kliniske retningslinjer/instrukser
+  </span>
+  <span class="hnpara" style="color: #000;">
+   , er der en patient-personale relation vedrørende det, som retningslinjen omfatter. Eksempelvis ved patientidentifikation, hvor personalet er i direkte kontakt med patienten.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Ved
+  </span>
+  <span class="hnpara" style="font-weight: bold; color: #000;">
+   administrative retningslinjer/instrukser
+  </span>
+  <span class="hnpara" style="color: #000;">
+   er der
+  </span>
+  <span class="hnpara" style="color: #000; text-decoration: underline;">
+   ikke
+  </span>
+  <span class="hnpara" style="color: #000;">
+   en direkte patient-personale relation. Det gælder eksempelvis ved det præhospitale områdes retningslinje for rapportering og opfølgning på utilsigtede hændelser.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   I Region Nordjylland er det besluttet, at
+  </span>
+  <span class="hnpara" style="font-weight: bold; color: #000;">
+   actioncards
+  </span>
+  <span class="hnpara" style="color: #000;">
+   kan vises som et selvstændigt dokument knyttet til en instruks. Et actioncard er præcise og korte handlingsanvisende instrukser til personalet, der har brug for en huskeliste til handlinger (kliniske eller administrative) i akutte situationer.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Roller i PRI-systemet
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Der er forskellige roller i forbindelse med håndtering af de retningsgivende dokumenter.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Bruger:
+  </span>
+  <span>
+   Person, der anvender PRI-systemet til at finde de relevante retningsgivende dokumenter.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Forfatter:
+  </span>
+  <span>
+   Person(er), der forfatter de dokumenter, der lægges ind i PRI-systemet.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Godkender:
+  </span>
+  <span>
+   Person(er), der skal godkende et dokument, før det bliver tilgængeligt for brugerne i systemet.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Redaktør:
+  </span>
+  <span>
+   Person, der håndterer dokumenter i PRI-systemet. Det vil sige får dokumentet fra forfatteren, administrerer dokumenterne i systemet og sikre, at dokumentet kommer igennem det korrekte godkendelsesflow og derefter bliver tilgængeligt for brugerne. Som redaktør kan man være brugerne behjælpelige med at foretage søgninger ved behov herfor.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Administrator:
+  </span>
+  <span>
+   Person der har et grundigt kendskab til PRI-systemet og kan fungere som regional superbruger i forhold til redaktørerne. Administrator er placeret i regionshuset.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span style="font-weight: bold; font-style: italic;">
+   Networking:
+  </span>
+  <span>
+   Microsoft Share Point system, som anvendes i den præhospitale organisation til deling af dokumenter samt vidensdeling generelt.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span style="font-weight: bold; font-style: italic;">
+   eDoc:
+  </span>
+  <span>
+   Et fælles administrativt system, som anvendes i Region Nordjylland til journalisering- og arkivering af dokumenter, notater, ind- og udgående post, mailkorrespondancer m.v.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span>
+  </span>
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_d0cb7778c4dc4bf6805c1ff9f58b578f">
+  <a id="a_Toc411250809">
+  </a>
+  <span>
+   Beskrivelse
+  </span>
+ </h1>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span style="color: #000;">
+   Præhospitalt Beredskab benytter på regionalt niveau dokumentstyringssystemet PRI. Desuden anvendes systemet Networking.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span style="color: #000;">
+   Alle overordnede retningsgivende dokumenter gældende for det regionale præhospitale område skal være tilgængelige i PRI-systemet. Underliggende SOP’er gældende for AMK-Vagtcentralen og driftsstander for ambulancetjenesten med relevans for den regionale præhospitale enhed er tilgængelige i Networking.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span style="color: #000;">
+   Regionens ambulanceleverandør anvender eget dokumenthåndteringssystem.
+  </span>
+ </p>
+ <h2 class="~clause~ Overskrift2" id="a_08b27de0826b4d1faebc63974432269b">
+  <a id="a_Toc411250810">
+  </a>
+  <span style="font-size: 12pt;">
+   Krav til dokumenterne
+  </span>
+ </h2>
+ <p class="~clause~ Normal">
+  <span style="color: #000;">
+   De enkelte retningsgivende dokumenter beskriver som minimum følgende:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list12">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Arial; color: #000; font-size: 10pt;">
+     Formål
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Arial; color: #000; font-size: 10pt;">
+     Anvendelsesområde
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Arial; color: #000; font-size: 10pt;">
+     Målgruppe
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Arial; color: #000; font-size: 10pt;">
+     Gyldighedsperiode og tidsramme for revision (dokumenterne opdateres minimum hvert 3. år).
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   I Region Nordjylland skal dokumenter i PRI-systemet så vidt muligt være offentligt tilgængelige. Der kan dog i enkelte tilfælde være vægtige, faglige argumenter for, at et retningsgivende dokument ikke skal være tilgængeligt for alle. Det er eksempelvis visse retningsgivende dokumenter vedrørende IT-sikkerhed, sikkerhed gen
+  </span>
+  <span class="hnpara">
+   erelt, beredskabsplanlægning mm. det vil sige dokumenter, hvor almen adgang kan gøre Region Nordjylland sårbare.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span>
+   De af ambulanceleverandørens dokumenter, som er af relevans for den regionale præhospitale enhed er tilgængelige i Networking på nedenstående hjemmeside, og kan tilgås af medarbejder inden for det regionale præhospitale system, som er tildelt adgang hertil.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 10pt; line-height: 115%;">
+  <a href="http://www.networking.rn.dk/faelles/beredskab/vagtcentral">
+   <span class="Hyperlink">
+    www.networking.rn.dk/faelles/beredskab/vagtcentral
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Regionen har som arbejdsgiver alle rettigheder (ophavsret) til de retningsgivende dokumenter, der er udarbejdet af regionens medarbejdere. Ophavsretten til dokumenter udarbejdet til brug udelukkende af ambulanceleverandøren tilfalder udarbejdende instans.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Dokumenter relateret til den almindelige sagsbehandling, patientjournaler mm. er ikke inkluderet i PRI-systemet og således ikke en del af indeværende retningslinje. Det der ikke skal indlægges i PRI-systemet er eksempelvis:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list11">
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     dokumenter med patientrelaterede data
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     ind- og udgående post
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     dagsordener og mødereferater
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     personlige funktions-/kompetencebeskrivelser
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     notater
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     ansættelsesbreve
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     telefonlister
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     fakta om afdelinger
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     nyhedsbreve
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     patientpjecer
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span class="hnlisttext" style="color: #000;">
+     årsrapporter mm.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   En række af ovenstående administrative dokumenter vil kunne findes i Networking eller i regionens journaliserings- og arkiveringssystem eDoc. Det vil sige, at det udelukkende er det, der kan defineres som værende et PRI-dokument, der skal ind i PRI-systemet.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Referater af møde i Kvalitetsrådet for det præhospitale område samt øvrige relevante mødefora er tilgængelige i Networking. Større udarbejdede analyser, auditnotater/referater af auditmøder og handleplaner vil desuden være tilgængelige i Networking, hvor ledere og medarbejdere inden for det præhospitale område vil kunne se disse med henblik på gensidig orientering, inspiration og læring.
+  </span>
+  <span class="hnpara" style="color: #F00;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="text-decoration: underline;">
+   Egenskaber for retningsgivende dokumenter
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   I bilag 1 nedenfor beskrives de egenskaber (også kaldet metadata) der skal være i PRI-systemet for de retningsgivende dokumenter. Det vil sige de oplysninger, der skal tilknyttes hvert enkelt retningsgivende dokument (fx titel, målgruppe, dato for næste revision, revisionsansvarlig m.v.)
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="text-decoration: underline;">
+   Disposition for udarbejdelse af dokumenter - skabelon
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="margin-bottom: 10pt; line-height: 115%;">
+  <span style="color: #000;">
+   Dokumenter udarbejdes på basis af en fælles regional dokumentskabelon og i øvrigt i henhold til gældende regionale og lokale retningslinjer. Skabeloner er tilgængelige på PersonaleNet (
+  </span>
+  <a href="http://personalenet.rn.dk/Sider/default.aspx">
+   <span class="Hyperlink">
+    PersonaleNet.rn.dk
+   </span>
+  </a>
+  <span>
+   ) under Hjælp til IT / Vejledninger /Kliniske systemer / PRI / Skabeloner.
+  </span>
+ </p>
+ <h2 class="~clause~ Overskrift2" id="a_d07d4a996a7e4c63ba3aba53c0b4ff5c">
+  <a id="a_Toc411250811">
+  </a>
+  <span class="hnpara" style="font-size: 12pt;">
+   Godkendelse af dokumenter
+  </span>
+ </h2>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span style="color: #000;">
+   Retningsgivende dokumenter, som, overordnet set, sætter rammen for kvalitetsarbejdet på det præhospitale område godkendes af den præhospitale ledelse. Det drejer sig om retningsgivende dokumenter relateret til følgende standarder i DDKM:
+  </span>
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.2.1 Kvalitetspolitik
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.2.2 Kvalitetsovervågning og forbedringstiltag
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.2.4 Risikostyring
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.2.6 Utilsigtede hændelser
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.2.7 Patientklager og patienterstatningssager
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     1.3.1 Dokumentstyring
+     <br/>
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   For retningsgivende dokumenter gældende for ambulanceleverandørens personale gælder det, at de dokumenter der vedrører patientbehandling og disponering skal godkendes af regionens præhospitale leder. Således skal ambulanceleverandørens retningsgivende dokumenter relateret til følgende standarder i DDKM godkendes af den præhospitale leder:
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.2.5 Patientidentifikation
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.3.2 Patientjournalen
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.5.4 Håndtering af smittekilder
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.5.5 Håndtering af farlige stoffer
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.9.1 Interhospitale transporter (til orientering)
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     1.10.2 Telemedicin
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.1.1 Informeret samtykke
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.1.2 Inddragelse af patienten og pårørende
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.1.4 Indbringelse af patient med afvigende adfærd
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.2.2 Teknisk disponering i AMK-Vagtcentralen
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.4.1 Koordinering af medicinsk behandling
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.5.1 Lægemidler
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.5.2 Lægemiddelhåndtering- og opbevaring
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.6.1 Hjertestopbehandling
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.7.1 Afslutning af den præhospitale indsats på stedet
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.8.1 Overdragelse
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     2.9.1 Omsorg for den terminalt syge patient
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span class="hnpara">
+     3.1.1 Vurdering og behandling af patienter
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <h2 class="~clause~ Overskrift2" id="a_6a524cd431284f15ad599f468c6aed49">
+  <a id="a_Toc411250812">
+  </a>
+  <span class="hnpara" style="font-size: 12pt;">
+   Dokumentstyring/ansvarsfordeling
+  </span>
+ </h2>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="text-decoration: underline;">
+   Ansvar for præhospitale dokumenter i PRI-systemet
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 1.5pt; margin-bottom: 7.5pt;">
+  <span style="color: #000;">
+   Ledelsen i Præhospital Beredskab er overordnet ansvarlig for indholdet i dokumentsamlingen.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Administrationschef for Præhospital- og Beredskabsenheden (PBE), Kvalitetskoordinator i PBE samt informatikassistent i AMK-Vagtcentralen fungerer som redaktører i PRI-systemet. Disse har således ansvaret for at præhospitale retningsgivende dokumenter indlægges i PRI-systemet.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Mailboksen
+  </span>
+  <a href="mailto:amk-pbe@rn.dk">
+   <span class="Hyperlink">
+    amk-pbe@rn.dk
+   </span>
+  </a>
+  <span>
+   fungerer som Præhospitalt Beredskabs afdelingspostkasse i forbindelse med opdatering af dokumenter i PRI og i Networking. Dvs. at, når et opdateret dokument skal lægges i PRI eller Networking, sendes dokumentet til:
+  </span>
+  <a href="mailto:amk-pbe@rn.dk">
+   <span class="Hyperlink">
+    amk-pbe@rn.dk
+   </span>
+  </a>
+  <span>
+   . For PRI dokumenter gælder det, at der sammen med dokumentet fremsendes et udfyldt dokument med
+  </span>
+  <span style="font-weight: bold;">
+   egenskaber
+  </span>
+  <span>
+   for det dokument, der skal lægges i PRI (jf. bilag 1). PRI-redaktører i PBE sørger for at førnævnte mailboks løbende gennemses, og at eventuelle indkomne dokumenter lægges i PRI/Networking, eller at rettelser til allerede eksisterende dokumenter tilføjes i PRI. (
+  </span>
+  <span class="hnpara">
+   Inden fremsendelse af dokumenter til ovennævnte mailboks skal dokumenterne have været igennem ovenfor beskrevne godkendelsesflow. Hvis der er tale om rettelser af mindre karakter til allerede godkendte dokumenter, fx ændring af kontaktoplysninger eller lign. sendes opdateret dokument blot til ovennævnte mailboks, hvorefter det vil blive gjort tilgængeligt i PRI/Networking).
+  </span>
+  <span class="hnpara" style="color: #F00;">
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Når den regionale præhospitale enhed har retningsgivende dokumenter (nye eller opdaterede versioner), som ambulanceleverandøren skal være bekendt med/efterleve sendes disse til mailboksen
+  </span>
+  <a href="mailto:RN.amb.dokumenter@falck.dk">
+   <span class="Hyperlink">
+    RN.amb.dokumenter@falck.dk
+   </span>
+  </a>
+  <span class="hnpara">
+   .
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Det er muligt for medarbejdere inden for det præhosiptale område at abonnere på dokumenter i såvel PRI som i Networking. Abonnenter af dokumenter modtager automatisk en besked, når der foretages opdateringer af det pågældende dokument.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Redaktørerne har ansvaret for at det altid er de senest opdaterede præhospitale dokumenter, der er tilgængelige i PRI. Herunder har redaktørerne ansvar for at sikre, at dokumenterne revideres minimum hvert tredje år.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   For hvert dokument i PRI skal der i dokumentet ’Egenskaber’ under feltet ’Revisionsansvarlig’ angives en mailadresse, hvorigennem Præhospitalt Beredskab bliver kontaktet, når der er behov for opdatering/revidering af dokument i PRI. Det er mailadressen
+  </span>
+  <a href="mailto:amk-pbe@rn.dk">
+   <span class="Hyperlink">
+    amk-pbe@rn.dk
+   </span>
+  </a>
+  <span>
+   , der anføres i feltet ’Revisionsansvarlig’. Herved bliver Præhospitalt Beredskab, hvert 3. år, automatisk gjort opmærksom på, at et dokument skal opdateres/revideres.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Redaktørerne har – i forening med den præhospitale leder – desuden ansvaret for løbende at vurdere om ny tilgængelig evidens, lovgivningsmæssige ændringer og lignende giver anledning til ajourføring af eksisterende retningsgivende dokumenter på det præhospitale område før næste ordinære revisionsdato.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara">
+   Ved opdatering/revision af dokumenter i PRI er det muligt at anføre kommentarer, som beskriver de ændringer der er foretaget. Der er log og versionsstyring af dokumenter i PRI. Ugyldige dokumenter arkiveres i PRI og kan genfindes i systemet af redaktørerne.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <h2 class="~clause~ Overskrift2" id="a_8b3f3cdd275843beaba4ed3c78baefcb">
+  <a id="a_Toc411250813">
+  </a>
+  <span class="hnpara" style="font-size: 12pt;">
+   Tilgang til dokumenter ved nedbrud af dokumentstyringssystem (PRI/Networking)
+  </span>
+ </h2>
+ <p class="~clause~ Normal">
+  <span>
+   <br/>
+   For nødprocedure ifm. PRI se instruks:
+  </span>
+  <a href="https://pri.rn.dk/Sider/12463.aspx">
+   <span class="Hyperlink" style="font-family: Verdana; font-size: 8.5pt;">
+    Nødprocedure, ingen adgang til PRI-online
+   </span>
+  </a>
+  <span>
+   .
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   <br/>
+   Dokumenter med kritisk betydning for patientbehandling;
+   <br/>
+   Akutlægebilerne har en særskilt database, der kan tilgås via Iphone/Ipad – opdateres ved at nyeste instrukser sendes til den ansvarlige for databasen.
+   <br/>
+   AMK-vagtcentral har en ’
+  </span>
+  <span class="hnpara">
+   Bevar roen’-mappe med de vigtigste sop’er – opdateres hver tredje måned.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="background-color: #FF0;">
+   <br/>
+  </span>
+  <span class="hnpara">
+   Overordnet set vurderes det, at nedetiden for regionens IT-systemer er så kort, at det ikke er nødvendigt at have print af dokumenter liggende (Der er IT-suppo
+  </span>
+  <a id="a_GoBack">
+  </a>
+  <span class="hnpara">
+   rt til PRI 24 timer i døgnet)
+  </span>
+  <span class="hnpara" style="background-color: #FF0;">
+   <br/>
+  </span>
+ </p>
+ <h2 class="~clause~ Overskrift2" id="a_9c716e1731e74c99ba42c3b344415f8b">
+  <a id="a_Toc411250814">
+  </a>
+  <span style="font-size: 12pt;">
+   Bilag 1: Egenskaber for retningsgivende dokumenter i PRI-systemet
+  </span>
+ </h2>
+ <h2 class="~clause~ Overskrift2">
+ </h2>
+ <table class="Tabel-Normal" style="width: auto; border-spacing: 0; border-collapse: collapse; margin-left: 5.9pt; margin-right: auto;">
+  <colgroup>
+   <col style="width: 152pt;"/>
+   <col style="width: 359.3pt;"/>
+  </colgroup>
+  <tbody>
+   <tr>
+    <td class="tableTop tableLeft" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="font-weight: bold; color: #000;">
+       Egenskaber (obligatoriske markeret med *)
+      </span>
+     </p>
+    </td>
+    <td class="tableTop tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="font-weight: bold; color: #000;">
+       Uddybning
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Dokumenttitel (*)
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Overskriften på det retningsgivende dokument. Egenskaben trækkes fra skriveskabelonen, hvor titlen skrives først i dokumentet med typografien ”Titeloverskrift” (er derfor obligatorisk at udfylde i skriveskabelonen – og kommer derefter automatisk med som en egenskab)
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Dato for ikrafttræden*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Den dato, hvor dokumentet er gældende fra.
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Godkendt af bemyndiget person*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Den ledelsesansvarlige/den gruppe, der har godkendt dokumentet (sker via godkendelsesflow i PRI-systemet)
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Godkendelsesdato*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Datoen noteres automatisk
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Dato for næste revision*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Dokumentet skal minimum revideres hvert 3. år (sker automatisk, hvis der ikke er sat en tidligere dato på)
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Forfatter*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Navn og stilling/titel angives
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Faglig ansvarlig*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Navn og stilling/titel angives. Det er vigtigt, at der er en ledelsesmæssig forankring, der fagligt kan stå inde for dokumentet
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Revisionsansvarlig*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span>
+       Mailadressen;
+      </span>
+      <a href="mailto:amk-pbe@rn.dk">
+       <span class="Hyperlink">
+        amk-pbe@rn.dk
+       </span>
+      </a>
+      <span>
+       anføres her.
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Erstatter
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Der skal angives titel og dato på dokumentet, der erstattes
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Ændringskommentar
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Hvis der er ændringer i forhold til tidligere gældende PRI-dokument beskrives, hvad ændringen går på. Ændringskommentaren kan læses i PRI-systemet
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Fagspeciale
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Der kan vælges fagspeciale via fastlagte kategorier
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Målgruppe – udførelse*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Det skal fremgå, hvem dokumentet henvender sig til, eksempelvis læger, sygeplejersker, portører osv. (fastlagte kategorier)
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Gældende for*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Det skal beskrives om dokumentet er gældende for hele Region Nordjylland, for enkelte sygehuse/sektorer eller for bestemte afdelinger mm. (via fastlagte kategorier)
+      </span>
+     </p>
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+      </span>
+     </p>
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       I PRI-systemet vil det derefter være muligt at søge de dokumenter frem, som er gældende for ens afsnit eller afdeling
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Angivelse af dokumentniveau*
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Her angives det, om dokumentet hører ind under:
+      </span>
+     </p>
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       - Politikker &amp; strategier (herunder politikker, strategier, programmer)
+      </span>
+     </p>
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       - Retningslinjer (herunder kliniske, administrative, apparatur)
+      </span>
+     </p>
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       - Instrukser (herunder kliniske, forløbsbeskrivelse, administrative)
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Søgeord
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Her angives nøgleord/synonymer
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Relateret til andre dokumenter i PRI-systemet (side- eller overordnede)
+      </span>
+     </p>
+    </td>
+    <td class="tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Her kan der relateres til et side- eller overordnet dokument. Hvis en instruks eksempelvis er udarbejdet på baggrund af en retningslinje, der ligger i PRI, kan der relateres hertil. På denne måde sikres det, at der gives besked til den revisionsansvarlige postkasse, hvis det relaterede dokument ændres. Hermed sikres det, at man bliver opmærksom på ændringer i side- eller overordnede dokumenter, der kan have betydning for indholdet af ens eget dokument.
+      </span>
+     </p>
+    </td>
+   </tr>
+   <tr>
+    <td class="tableBottom tableLeft tableHorizontal" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 152pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-bottom-width: 0.5pt; border-bottom-style: solid; border-bottom-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Vurderet efter AGREE-instrumentet*
+      </span>
+     </p>
+    </td>
+    <td class="tableBottom tableHorizontal tableVertical tableRight" style="padding-right: 5.4pt; padding-left: 5.4pt; width: 359.3pt; border-top-width: 0.5pt; border-top-style: solid; border-top-color: #000; border-bottom-width: 0.5pt; border-bottom-style: solid; border-bottom-color: #000; border-left-width: 0.5pt; border-left-style: solid; border-left-color: #000; border-right-width: 0.5pt; border-right-style: solid; border-right-color: #000; padding-top: 0; padding-bottom: 0;">
+     <p class="~clause~ Normal" style="margin-bottom: 3pt;">
+      <span style="color: #000;">
+       Her noteres der ”ja” eller ”Nej”. Feltet er kun relevant på retningslinje-niveau – men der angives ens egenskaber for alle dokumenter. Når det ikke er relevant markeres dette således med et ”nej”
+      </span>
+     </p>
+    </td>
+   </tr>
+  </tbody>
+ </table>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_1e1fa7e5eed746c090c906ac9505d4c2">
+  <a id="a_Toc411250815">
+  </a>
+  <span>
+   Referencer
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span class="hnpara" style="color: #000;">
+   Standard nr. 1.3.1, Den Danske Kvalitetsmodel, akkrediteringsstandarder for det præhospitale område, 2. version.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <a href="https://pri.rn.dk/Sider/8423.aspx">
+   <span class="Hyperlink">
+    Politik for styring og håndtering af retningsgivende dokumenter i sygehusvæsenet i Region Nordjylland (Regional retningslinje).
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal">
+  <a href="https://pri.rn.dk/Sider/11377.aspx">
+  </a>
+ </p>
+ <p class="~clause~ Normal">
+  <a href="https://pri.rn.dk/Sider/11377.aspx">
+   <span class="Hyperlink">
+    Krav og ansvar i forhold til retningsgivende dokumenter i sygehusvæsenet (regional retningslinje)
+   </span>
+  </a>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+</div>

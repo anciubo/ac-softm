@@ -1,0 +1,536 @@
+<!--
+.. title: laegemiddelhandtering-og-opbevaring
+.. slug: laegemiddelhandtering-og-opbevaring
+.. date: 2017-08-04 13:08:33 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
+<div class="alert alert-success" role="alert"><b>Opdateret fra PRI</b>  ------>  d.04-08-2017  kl:13:08:32</div>
+
+<div class="document" id="U62a39ffe68604adf98db5062e1f8089b" lang="da-DK" xml:lang="da-DK" xmlns="http://www.w3.org/1999/xhtml">
+ <h1 class="~clause~ Overskrift1">
+  <span>
+   Lægemiddelhåndtering og –opbevaring, præhospital
+  </span>
+ </h1>
+ <p class="~clause~ Normal" style="border-bottom-width: 0.75pt; border-bottom-style: solid; border-bottom-color: black; line-height: 100%; text-align: center; padding-bottom: 1pt;">
+  <span style="font-family: Verdana; display: none; font-size: 16pt;">
+   Øverst på formularen
+  </span>
+ </p>
+ <h4 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 15pt;">
+  <a id="a1342599288067Top">
+  </a>
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+  </span>
+ </h4>
+ <h3 class="~clause~ Overskrift3" id="a_28274a1da5dd4c7fa293c00976cd0e03">
+  <a id="a1342599288067Formaal">
+  </a>
+  <span>
+   Formål
+  </span>
+ </h3>
+ <ul class="list19">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     At sikre:
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     at patienten får korrekte, virksomme lægemidler
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     at lægemidler opbevares korrekt og sikkert
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     at opbevaring og håndtering af lægemidler forhindrer fejl og utilsigtede hændelser
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     mod tyveri og utilsigtet brug af lægemidler.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <h3 class="~clause~ Overskrift3" id="a_0075c99e59824a6e9506c866ecf06579">
+  <a id="a1342599288067Maalgrupper">
+  </a>
+  <span style="font-size: 11.5pt;">
+   <br/>
+  </span>
+  <span>
+   Målgrupper og anvendelsesområde
+  </span>
+ </h3>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Læger, lægeassistenter og farmakonomer, der er involveret i opbevaring og håndtering af lægemidler ved akutlægebilerne i Region Nordjylland.
+  </span>
+ </p>
+ <h3 class="~clause~ Overskrift3" id="a_10337768d2174edcbb1776e0cf1d9301">
+  <a id="a1342599288067Definitioner">
+  </a>
+  <span style="font-size: 12pt;">
+   <br/>
+  </span>
+  <span>
+   Definitioner
+  </span>
+ </h3>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; font-style: italic; color: #222;">
+   Medicinservice:
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   Logistisk og faglig ydelse hvor personale fra Sygehusapoteket Region Nordjylland sikrer at akutlægebilerne rettidigt har den rette medicin i rette mængder.
+  </span>
+ </p>
+ <h3 class="~clause~ Overskrift3" id="a_014bd091271b4e8fafb818f09f6c54df">
+  <a id="a1342599288067Fremgangsmaade">
+  </a>
+  <span style="font-size: 11.5pt;">
+   <br/>
+  </span>
+  <span>
+   Fremgangsmåde
+  </span>
+ </h3>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   De daglige ledere af akutlægebilerne udvælger lægemidler til standardsortiment, hvor dosering, virkning og bivirkninger er kendt af lægerne.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Via Anæstesien Syd og Sygehusapoteket kan der søges om ændringer af standardsortimentet.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Oprettelse af ikke rekommanderede lægemidler i standardsortimentet skal ske ved begrundet ansøgning gennem Sygehusapoteket.
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" id="a_250935f02c574906be6f22a0852befa0" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Tilladelsespræparater
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Lægemidler, der ikke er markedsført i Danmark kræver generel udleveringstilladelse fra Sundhedsstyrelsen. Disse tilladelser ansøges
+  </span>
+  <span style="font-family: Verdana;">
+   af
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   de daglige ledere af akutlægebilerne og tilladelsen opbevares centralt for akutlægebilerne, ligesom der sendes en kopi af tilladelsen til Sygehusapoteket
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" id="a_d3f7637079ea4220b48385b6aa42b945" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Forbrugsstatistikker
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Den præhospitale leder og den daglige leder af akutlægebilen i Aalborg modtager hver måned – fra farmaceut ved Sygehusapoteket, Region Nordjylland – forbrugsrapport over forbruget af euforiserende lægemidler og én gang i kvartalet forbrugsrapport over forbruget af alle lægemidler på akutlægebilen i Aalborg.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana;">
+   Den daglige leder af akutlægebilen Hjørring udarbejder hver måned på baggrund af forbruget en forbrugsrapport over forbruget af euforiserende lægemidler samt alle andre lægemidler på akutlægebilen Hjørring.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Ambulancer:
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" id="a_c1208578e78d4ea8a102722ddfb241ca" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Rekvireringer, modtagelse og opbevaring af lægemidler samt medicinskabstilsyn hos leverandørerne
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Leverandørerne er forpligtiget til at følge Sundhedsstyrelsens generelle rekommandationer på området og udarbejde egne instrukser/standarder.
+  </span>
+ </p>
+ <h4 class="~clause~ Normal" id="a_ef6e2ebb8f0c4ce0ad05a3590068b6f4" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 15pt;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Akutlægebilerne:
+  </span>
+ </h4>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Lægeassistenten har adgang til akutlægebilens medicinskab. Lægeassistenten fylder akutlægebilens medicinbeholdning op efter endt tur og kvitterer for den medicin, der kommes i akutlægebilens akuttaske.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Ved det daglige morgentjek af akutlægebilen, kontrollerer lægeassistenten medicinen i akuttasken, så tasken altid indeholder den rigtige medicin jævnfør pakningsliste og kontrollerer tillige, at medicinen i akuttasken ikke har overskredet udløbsdatoen. Er nogle lægemidler for gamle, henter lægeassistenten ny medicin i akutlægebilens medicinskab på Aalborg Universitetshospital eller Sygehus Vendsyssel, Hjørring og bortskaffer samtidig medicinen med overskredet udløbsdato.
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" id="a_8a8c289788d2494fb9cd0d3fd3591309" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Rekvirering af lægemidler
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Der ydes medicinservice af medicinskabet, hvor medicinen til Akutlægebilen opbevares på henholdsvis Aalborg Universitetshospital og Sygehus Vendsyssel, Hjørring. Ved medicinservice varetages bestilling, modtagelse og returnering af lægemidler af farmakonomer tilknyttet Sygehusapoteket, Region Nordjylland.
+  </span>
+ </p>
+ <ul class="list19">
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     Akutlægebilens medicinskab på Aalborg Universitetshospital har medicinservice på alle hverdage, hvor lægemidlerne gennemgås for udløb og den ældste medicin stilles forrest/lægges øverst.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Opstilling-punkttegn">
+    <span class="item">
+     •
+    </span>
+    <span>
+     Akutlægebilens medicinskab på Sygehus Vendsyssel har medicinservice 2 gange ugentligt, hvor lægemidlerne gennemgås for udløb og den ældste medicin stilles forrest/lægges øverst.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   <br/>
+   Telefonisk rekvirering af lægemidler må kun foretages af en læge eller farmaceut/farmakonom (afdelinger, som har medicinservice) og bør begrænses, da det indebærer en risiko for fejl.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Farmakonom
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   er ansvarlig for
+  </span>
+ </p>
+ <ul class="list12">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     At kontrollere, at de leverede lægemidler svarer til de rekvirerede
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     At kontakte Sygehusapoteket Region Nordjylland ved fejlleverancher
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     At kontrollere hvilke lægemidler, der skal på køl/frost, og straks placere disse korrekt
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     At sikre at infusionsvæsker m.v. opbevares forsvarligt.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     At føre temperaturkontrol i medicinskabet på hverdage
+    </span>
+   </p>
+  </li>
+ </ul>
+ <h5 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+ </h5>
+ <p class="~clause~ Normal">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Lægebilsassistent på akutlægebil i Hjørring
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   er ansvarlig for:
+  </span>
+ </p>
+ <ul class="list13">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana;">
+     På de dage hvor Sygehusapoteket ikke udfører medicinservice i Hjørring, at føre temperaturkontrol i medicinskabet for lægemidler til henholdsvis akutlægebil og ambulancetjeneste.  Lægebilsassistenter udfører temperaturkontrol og dokumenterer og sender log herover en gang om måneden til den præhospitale leder.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <h5 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+ </h5>
+ <h5 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <a id="a_GoBack">
+  </a>
+ </h5>
+ <h5 class="~clause~ Normal" id="a_3c7036a9645b40c6b50aebf5f46c345a" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold;">
+   Sygehusenes portører/personale er ansvarlig for
+  </span>
+ </h5>
+ <ul class="list14">
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span>
+     At medicin ved levering anbringes i aflåst rum eller overleveres fagpersonale som har adgang til medicinrum.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Listeafsnit level0">
+    <span class="item">
+     •
+    </span>
+    <span>
+     At medicin der skal på køl/frost straks placeres korrekt.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <h5 class="~clause~ Normal" id="a_15a4a9fd662e4144a689beabf413b553" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Opbevaring af lægemidler
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222; text-decoration: underline;">
+   Alle lægemidler
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   skal opbevares i aflåste skabe/rum og under rette temperaturforhold (se nedenfor.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222; text-decoration: underline;">
+   Infusionsvæsker
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   , der ikke indeholder lægemidler, kan opbevares i ulåste skabe udenfor medicinskabet.
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+ </h5>
+ <h5 class="~clause~ Normal" id="a_8bec63931feb4441933782a307d03493" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Medicinskabet – tilsyn og temperaturkontrol
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Man bør ved organiseringen af medicinskabet være særligt opmærksom på risikoen for forveksling:
+  </span>
+ </p>
+ <ul class="list15">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Euforiserende lægemidler opbevares adskilt fra øvrige lægemidler.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Temperatur i medicinrum og medicinkøleskab
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Køleskabstemperatur (2-8 ºC) skal overvåges og dokumenteres.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Temperaturen i medicinrum/skabe (maksimalt 25 ºC) skal overvåges og dokumenteres.
+  </span>
+ </p>
+ <ul class="list16">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Temperaturafvigelsen skal dokumenteres ved at identificere årsag, korrigerende handlinger og konsekvensvurdering for medicinen.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <h5 class="~clause~ Normal" id="a_f9600754dcc741ee8c434f86e9fcc2c4" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Medicinskabseftersyn
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Medicinskabseftersyn skal foretages af Sygehusapoteket med fast interval efter gældende regler.
+  </span>
+ </p>
+ <h5 class="~clause~ Normal" id="a_99d744fc2db74ed1aaaa3fb834daaab4" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 3pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Lægemiddelprøver
+  </span>
+ </h5>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Lægemiddelprøver må ikke anvendes til patienter i den præhospitale virksomhed.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; font-weight: bold; color: #222;">
+   Morfikaregnskab
+  </span>
+  <span style="font-family: Verdana; color: #222;">
+   - overvågning af euforiserende lægemidler.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+  <span style="font-family: Verdana; color: #222;">
+   Ved mistanke om tyveri og/eller misbrug af disse lægemidler, gives der besked til den præhospitale leder, den daglige leder af akutlægebilen og Medicinservice. Der iværksættes da kontinuerlig overvågning, som indebærer regelmæssig registrering af:
+  </span>
+ </p>
+ <ul class="list17">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Lageret i det enkelte medicinskab
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Forholdet mellem rekvirerede og leverede lægemidler
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Udlån til andre enheder – dette skal signeres af begge enheder
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="font-family: Verdana; color: #222;">
+     Lagerbeholdningen sammenholdes med forbruget til patienter.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt; line-height: 100%;">
+ </p>
+ <h3 class="~clause~ Normal" id="a_5d6e67bd34c24641aab5281ca43323b1" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 6pt; line-height: 15pt;">
+  <span style="font-family: Verdana; color: #222;">
+   Lederne definerer hyppigheden af registreringen og foretager løbende vurdering af situationen. Når der har været balance i regnskabet i mindst 14 dage, kan overvågningen ophøre.
+  </span>
+  <a id="a1342599288067Referencer">
+  </a>
+  <span style="font-family: Verdana; color: #222;">
+   <br/>
+   <br/>
+  </span>
+ </h3>
+ <h3 class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: 12pt; margin-bottom: 6pt; line-height: 15pt;">
+  <a id="a1342599288067Akkrediteringsstandarder">
+  </a>
+  <span style="font-family: Verdana; font-weight: bold; color: #222; font-size: 11.5pt;">
+   <br/>
+  </span>
+ </h3>
+ <p class="~clause~ Normal">
+ </p>
+</div>

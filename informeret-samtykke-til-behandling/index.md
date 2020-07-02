@@ -1,0 +1,429 @@
+<!--
+.. title: informeret-samtykke-til-behandling
+.. slug: informeret-samtykke-til-behandling
+.. date: 2017-08-04 13:07:59 UTC+02:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: True
+-->
+
+<div class="alert alert-success" role="alert"><b>Opdateret fra PRI</b>  ------>  d.04-08-2017  kl:13:07:57</div>
+
+<div class="document" id="U064d41c3b7bb41928ad4083db92ae297" lang="da-DK" xml:lang="da-DK" xmlns="http://www.w3.org/1999/xhtml">
+ <h1 class="~clause~ Titeloverskrift">
+  <span>
+   Informeret samtykke
+  </span>
+ </h1>
+ <h1 class="~clause~ Overskrift1">
+ </h1>
+ <h1 class="~clause~ Overskrift1" id="a_005357d0306a4615b639287ea0bb85a1">
+  <span>
+   Problemstilling
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Det skal sikres, at patientens informerede samtykke indhentes forud for behandling, medmindre andet følger af lovgivningen.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_67ccaf7c68ba4e22b1f7a461d1eb9395">
+  <span>
+   Målgruppe – modtagelse
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Læger ansat ved akutlægebilerne Region Nordjylland.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_e1e1aff4e55a44f6ad323c65463dfca7">
+  <span>
+   Definition af begreber
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Behandling
+  </span>
+  <span style="font-style: italic;">
+   :
+  </span>
+  <span>
+   undersøgelse, diagnosticering, sygdomsbehandling, fødselshjælp, genoptræning, sundhedsfaglig pleje samt forebyggelse og sundhedsfremme i forhold til den enkelte patient.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Midlertidig inhabil:
+  </span>
+  <span style="font-weight: bold;">
+  </span>
+  <span>
+   Patienter der midlertidigt er ude af stand til at tage stilling til behandling, for eksempel på grund af tilskadekomst, bevidstløshed, delirøs tilstand eller lignende.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Varig inhabil:
+  </span>
+  <span style="font-weight: bold;">
+  </span>
+  <span>
+   Patienter, der varigt mangler evnen til at tage stilling til behandling. For eksempel patienter med nedsat psykisk funktionsevne, hvad enten tilstanden er opstået ved fødslen eller senere for eksempel svært demente. Dette gælder også kronisk sindslidende og sindslidende med langvarigt sygdomsforløb. Det afgørende er, om de pågældende kan forholde sig fornuftsmæssigt til behandlingsforslag med videre.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Akut/øjeblikkeligt behandlingsbehov:
+  </span>
+  <span style="font-weight: bold;">
+  </span>
+  <span>
+   Hvor akut behandling er eneste mulighed for eksempel ved hjertestop, anafylaktisk shock eller livstruende blødning.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; font-style: italic;">
+   Stiltiende samtykke:
+  </span>
+  <span>
+   når patientens signaler og opførsel må forstås således, at der ligger et samtykke på baggrund af den givne information.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_436f9fb14c884f1385b51551f9c8b1d9">
+  <span>
+   Formål
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span>
+   At sikre, at patienterne modtager fyldestgørende information om forestående behandling, forestående transport og at patienten er oplyst om sin ret, til at træffe beslutning om hvorvidt behandling/transport ønskes eller om dette afvises.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_7aeccdbfd57f4d26a5bd316066e2d298">
+  <span>
+   Beskrivelse
+  </span>
+ </h1>
+ <p class="~clause~ Normal">
+  <span>
+   Patienten skal oplyses om retten til at afslå behandling eller transport.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   For at sikre, at patienten kan medinddrages i egen behandling er det vigtigt, at patienten informeres om den konkrete behandling, eventuelle bivirkninger og tilkendegiver, at de ønsker at modtage behandling.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   På baggrund af informationen har patienten ret til at fravælge behandling.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Patienten har ret til at få information om personalets vurdering af helbredssituationen og hvad der aktuelt gøres ved patienten og hvortil patienten transporteres. Informationen skal gives løbende og forståeligt for lægmand. Informationen skal gives hensynsfuldt og være tilpasset patientens aktuelle situation, kulturelle baggrund og sproglige forståelse og patientens individuelle forudsætninger.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Inddragelse og information af pårørende bør ske i overensstemmelse med patienten, og med overholdelse af tavshedspligten.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Børn:
+  </span>
+  <span>
+   barnet informeres og inddrages mest muligt i behandlingen, i det omfang barnet forstår situationen. Forældrene informeres om undersøgelser og behandling, og skal give samtykke til dette.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Unge mellem 15-17 år:
+  </span>
+  <span>
+   informeres og inddrages i undersøgelser og behandling, og kan selv samtykke til behandling.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Forældremyndighedsindehaveren skal informeres og inddrages i den unges stillingtagen. Ved uenighed har den unge ret til selvbestemmelse, medmindre den unge er ude af stand til, at forstå konsekvenserne af sin beslutning.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Der registreres i amPHI eller på ambulancejournalen om der er givet samtykke herunder stiltiende samtykke, samtykke ikke mulig eller der ikke gives samtykke.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="font-weight: bold; color: #222;">
+   Generelle retningslinjer
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222;">
+   Der skal som udgangspunkt altid være et informeret samtykke eller stedfortrædende samtykke til undersøgelse, behandling og indlæggelse.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222;">
+   I visse akutte situationer er det ikke praktisk muligt at opnå samtykke fx pga. bevidsthedspåvirkning af patienten, og behandling må i disse situationer ske ud fra en vurdering af patientens bedste.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222;">
+   Ovenstående indebærer at:
+  </span>
+ </p>
+ <ul class="list46">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Der må som udgangspunkt ikke anvendes tvang over for patienterne.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Der må som udgangspunkt ikke foretages undersøgelser, behandlinger eller indbringelse til sygehus, hvis en patient
+    </span>
+    <span style="color: #222; font-size: 8.5pt;">
+    </span>
+    <span style="color: #222;">
+     modsætter sig verbalt eller fysisk.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Patienten kan trække sit samtykke tilbage. Hvis patienten fortryder sit samtykke helt eller delvist undervejs, skal det respekteres.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Frasiger patienten sig behandling eller transport, skal det præhospitale sundhedsfaglige personale sikre sig, at patienten er kompetent, hvormed forstås, at patienten er informeret om og forstår konsekvenserne af beslutningen.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; margin-left: 36pt;">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="font-weight: bold; color: #222;">
+   Behandling m.v. uden samtykke:
+  </span>
+  <span style="color: #222;">
+   <br/>
+   Hvis en patient befinder sig i en situation, hvor øjeblikkelig behandling er påkrævet for patientens overlevelse eller for på længere sigt at forbedre patientens chance for overlevelse eller for et væsentligt bedre resultat af behandlingen, kan det være nødvendigt med behandling m.v. uden samtykke, herunder fastholdelse og tvang.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222; text-decoration: underline;">
+   Hvis patienten er midlertidig eller varig inhabil eller under 15 år
+  </span>
+  <span style="color: #222;">
+   og befinder sig i ovennævnte situation, kan det præhospitale sundhedsfaglige personale træffe afgørelse om behandlingstiltag m.v. Herunder hører også kortvarig fastholdelse til livreddende behandling i form af f.eks. indgift af glukose til diabetikere, modgift i forbindelse med indtagelse af narkotika-overdosis o. lign.
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold; color: #222;">
+   Dokumentation:
+  </span>
+  <span style="color: #222;">
+   <br/>
+  </span>
+  <span>
+   Der registreres i amPHI om der er givet samtykke herunder stiltiende samtykke, samtykke ikke mulig eller der ikke gives samtykke.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222; text-decoration: underline;">
+   I følgende situationer skal forhold omkring information og samtykke specifikt dokumenteres:
+  </span>
+ </p>
+ <ul class="list47">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     I alle tilfælde hvor tvang eller behandling uden samtykke gennemføres, herunder begrundelsen, hvis det ikke fremgår eksplicit af tilstanden.
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Hvis forløbet afsluttes på stedet.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <ul class="list48">
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Hvis patienten frasiger sig undersøgelse, behandling og / eller indbringelse med ambulance
+    </span>
+   </p>
+  </li>
+  <li>
+   <p class="~clause~ Normal level0" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+    <span class="item">
+     •
+    </span>
+    <span style="color: #222;">
+     Forløb hvor samtykke ikke er muligt.
+    </span>
+   </p>
+  </li>
+ </ul>
+ <p class="~clause~ Normal">
+ </p>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Implementering og anvendelse
+  </span>
+ </p>
+ <p class="~clause~ Normal">
+  <span>
+   Ledere og medarbejdere kender og anvender retningslinjerne.
+  </span>
+ </p>
+ <h3 class="~clause~ Overskrift3">
+ </h3>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Kvalitetsovervågning
+  </span>
+ </p>
+ <h4 class="~clause~ Overskrift4" id="a_ee0b8ee1cc9b41f391af91213cd75ad1" style="line-height: 115%;">
+  <span style="font-weight: normal; font-size: 10pt;">
+   Ved den halvårlige patientforløbsaudit undersøges det om der er dokumentation for indhentning af informeret samtykke.
+  </span>
+ </h4>
+ <h5 class="~clause~ Overskrift5">
+ </h5>
+ <p class="~clause~ Normal">
+  <span style="font-weight: bold;">
+   Kvalitetsforbedring
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Ved kvalitetsudvalgsmøderne følges op på patientforløbsaudit og ved mangler på indhentning af informeret samtykke iværksætter lederne konkrete tiltag for kvalitetsforbedring.
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <h1 class="~clause~ Overskrift1" id="a_6854c29cf6f04cb089b50bec62bdbe04">
+  <span>
+   Referencer
+  </span>
+ </h1>
+ <p class="~clause~ Brdtekst">
+  <span>
+   Standard nr. 2.1.1, Den Danske Kvalitetsmodel. Akkrediteringsstandarder for det præhospitale område, 2. version.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om patienters retsstilling, Kap. 3 i Sundhedsloven, LBK nr. 95 af den 07/02/2008.
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om lægers hjælpepligt, jf. § 42 i Autorisationsloven, LBK 1350 af den 17/12/2008
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om hjælpepligt, jf. §§ 250 og 253, Straffeloven, LBK 1034 af 29/10/2009
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om nødret og nødværge, jf. § 13 og § 14, Straffeloven, LBK 1034 af 29/10/2009
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om tvang i psykiatrien, Psykiatriloven, LBK 1111 af 01/11/2006
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-top: auto; margin-bottom: 3pt; line-height: 100%;">
+  <span style="color: #222;">
+   Om fremgangsmåden ved gennemførelse af tvangsindlæggelse, BEK 1498 af 14/12/2006
+  </span>
+ </p>
+ <p class="~clause~ Normal" style="background-color: #FFF; color: black; margin-bottom: 8pt;">
+  <span style="color: #222;">
+  </span>
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Brdtekst">
+ </p>
+ <p class="~clause~ Normal">
+  <a id="a_GoBack">
+  </a>
+ </p>
+</div>
