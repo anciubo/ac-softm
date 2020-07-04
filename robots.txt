@@ -1,4 +1,4 @@
-Sitemap: http://dokuALB.ac-softm.net/sitemapindex.xml
+Sitemap: https://github.com/anciubo/acsoftm.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: dokuALB.ac-softm.net
+Host: github.com
