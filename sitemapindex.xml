@@ -6,15 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://github.com/anciubo/acsoftm.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-07-04T10:36:00Z</lastmod>
+  <loc>https://anciubo.github.io/ac-softm/galleries/rss.xml</loc>
+  <lastmod>2020-07-06T17:55:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://github.com/anciubo/acsoftm.github.io/rss.xml</loc>
-  <lastmod>2020-07-04T10:36:00Z</lastmod>
+  <loc>https://anciubo.github.io/ac-softm/rss.xml</loc>
+  <lastmod>2020-07-06T17:55:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://github.com/anciubo/acsoftm.github.io/sitemap.xml</loc>
-  <lastmod>2020-07-04T10:36:00Z</lastmod>
+  <loc>https://anciubo.github.io/ac-softm/sitemap.xml</loc>
+  <lastmod>2020-07-06T17:56:00Z</lastmod>
  </sitemap>
 </sitemapindex>

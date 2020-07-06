@@ -1,4 +1,4 @@
-Sitemap: https://github.com/anciubo/acsoftm.github.io/sitemapindex.xml
+Sitemap: https://anciubo.github.io/ac-softm/sitemapindex.xml
 
 User-Agent: *
-Host: github.com
+Host: anciubo.github.io
